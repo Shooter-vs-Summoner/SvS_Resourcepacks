@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "-" : -1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/svs/kingzombie/energy/energy_stick.png",
+            "ascent": -26,
+            "height": 6,
+            "chars": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        }
+            ]
+}

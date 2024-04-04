@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/light_gray_stained_glass"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "gui/fill"},
+        {"predicate": {"custom_model_data": 2},"model": "gui/empty"},
+        {"predicate": {"custom_model_data": 10},"model": "gui/arrow_r"},
+        {"predicate": {"custom_model_data": 11},"model": "gui/arrow_l"},
+        {"predicate": {"custom_model_data": 20},"model": "gui/x"},
+        {"predicate": {"custom_model_data": 30},"model": "gui/settings"},
+        {"predicate": {"custom_model_data": 100},"model": "gui/weapon"},
+        {"predicate": {"custom_model_data": 110},"model": "gui/zombie"},
+        {"predicate": {"custom_model_data": 200},"model": "gui/weapon_weapon"},
+        {"predicate": {"custom_model_data": 201},"model": "gui/weapon_perk"},
+        {"predicate": {"custom_model_data": 202},"model": "gui/zombie_zombie"},
+        {"predicate": {"custom_model_data": 203},"model": "gui/zombie_magic"},
+        {"predicate": {"custom_model_data": 204},"model": "gui/zombie_artifact"},
+        {"predicate": {"custom_model_data": 300},"model": "gui/weapon_weapon_press"},
+        {"predicate": {"custom_model_data": 301},"model": "gui/weapon_perk_press"},
+        {"predicate": {"custom_model_data": 302},"model": "gui/zombie_zombie_press"},
+        {"predicate": {"custom_model_data": 303},"model": "gui/zombie_magic_press"},
+        {"predicate": {"custom_model_data": 304},"model": "gui/zombie_artifact_press"}
+
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/red_stained_glass"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 21001001},"model": "perk/1001"},
+        {"predicate": {"custom_model_data": 21002001},"model": "perk/1002"},
+        {"predicate": {"custom_model_data": 21003001},"model": "perk/1003"},
+        {"predicate": {"custom_model_data": 21004001},"model": "perk/1004"},
+        {"predicate": {"custom_model_data": 21005001},"model": "perk/1005"},
+        {"predicate": {"custom_model_data": 21006001},"model": "perk/1006"},
+        {"predicate": {"custom_model_data": 21007001},"model": "perk/1007"},
+        {"predicate": {"custom_model_data": 21008001},"model": "perk/1008"},
+        {"predicate": {"custom_model_data": 22001001},"model": "perk/2001"},
+        {"predicate": {"custom_model_data": 22002001},"model": "perk/2002"},
+        {"predicate": {"custom_model_data": 22003001},"model": "perk/2003"},
+        {"predicate": {"custom_model_data": 22004001},"model": "perk/2004"},
+        {"predicate": {"custom_model_data": 22005001},"model": "perk/2005"},
+        {"predicate": {"custom_model_data": 22006001},"model": "perk/2006"},
+        {"predicate": {"custom_model_data": 23001001},"model": "perk/3001"},
+        {"predicate": {"custom_model_data": 23002001},"model": "perk/3002"},
+        {"predicate": {"custom_model_data": 23003001},"model": "perk/3003"},
+        {"predicate": {"custom_model_data": 23004001},"model": "perk/3004"},
+        {"predicate": {"custom_model_data": 23005001},"model": "perk/3005"},
+        {"predicate": {"custom_model_data": 23006001},"model": "perk/3006"},
+        {"predicate": {"custom_model_data": 23007001},"model": "perk/3007"},
+        {"predicate": {"custom_model_data": 23008001},"model": "perk/3008"},
+        {"predicate": {"custom_model_data": 23009001},"model": "perk/3009"}
+
+
+    ]
+}

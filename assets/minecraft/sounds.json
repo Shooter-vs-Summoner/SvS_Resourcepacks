@@ -1,0 +1,7 @@
+{
+    "bgm.silence":{"category": "master","sounds": [{"name": "custom/bgm/silence","stream":true}]},
+    "bgm.kakurizima.phase1":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/phase1","stream":true}]},
+    "bgm.kakurizima.phase2":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/phase2","stream":true}]},
+    "bgm.kakurizima.phase3":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/phase3","stream":true}]},
+    "bgm.kakurizima.win":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/win","stream":true}]}
+    }
