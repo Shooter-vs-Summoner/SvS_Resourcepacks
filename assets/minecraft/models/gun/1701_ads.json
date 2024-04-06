@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench - sinineko",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "minecraft:block/anvil",
-		"1": "minecraft:block/black_stained_glass",
-		"2": "minecraft:block/dark_prismarine",
-		"3": "minecraft:block/dispenser_front_vertical",
-		"particle": "minecraft:block/anvil"
+		"0": "block/anvil",
+		"1": "block/black_stained_glass",
+		"2": "block/dark_prismarine",
+		"3": "block/dispenser_front_vertical",
+		"particle": "block/anvil"
 	},
 	"elements": [
 		{
@@ -354,7 +354,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, 0],
-			"translation": [-9.5, 8.25, 0.25]
+			"translation": [-9.5, 18, 0.25]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 90, 0],
@@ -366,8 +366,8 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
-			"rotation": [0, -180, -31],
-			"translation": [-2, 1.25, 0],
+			"rotation": [0, 0, -31],
+			"translation": [2, 1.25, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {

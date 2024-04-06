@@ -12,12 +12,17 @@
         {"predicate": {"custom_model_data": 21006001},"model": "perk/1006"},
         {"predicate": {"custom_model_data": 21007001},"model": "perk/1007"},
         {"predicate": {"custom_model_data": 21008001},"model": "perk/1008"},
+        {"predicate": {"custom_model_data": 21009001},"model": "perk/1009"},
+        {"predicate": {"custom_model_data": 21010001},"model": "perk/1010"},
+        {"predicate": {"custom_model_data": 21011001},"model": "perk/1011"},
+        {"predicate": {"custom_model_data": 21012001},"model": "perk/1012"},
         {"predicate": {"custom_model_data": 22001001},"model": "perk/2001"},
         {"predicate": {"custom_model_data": 22002001},"model": "perk/2002"},
         {"predicate": {"custom_model_data": 22003001},"model": "perk/2003"},
         {"predicate": {"custom_model_data": 22004001},"model": "perk/2004"},
         {"predicate": {"custom_model_data": 22005001},"model": "perk/2005"},
         {"predicate": {"custom_model_data": 22006001},"model": "perk/2006"},
+        {"predicate": {"custom_model_data": 22007001},"model": "perk/2007"},
         {"predicate": {"custom_model_data": 23001001},"model": "perk/3001"},
         {"predicate": {"custom_model_data": 23002001},"model": "perk/3002"},
         {"predicate": {"custom_model_data": 23003001},"model": "perk/3003"},
@@ -26,7 +31,8 @@
         {"predicate": {"custom_model_data": 23006001},"model": "perk/3006"},
         {"predicate": {"custom_model_data": 23007001},"model": "perk/3007"},
         {"predicate": {"custom_model_data": 23008001},"model": "perk/3008"},
-        {"predicate": {"custom_model_data": 23009001},"model": "perk/3009"}
+        {"predicate": {"custom_model_data": 23009001},"model": "perk/3009"},
+        {"predicate": {"custom_model_data": 23010001},"model": "perk/3010"}
 
 
     ]
