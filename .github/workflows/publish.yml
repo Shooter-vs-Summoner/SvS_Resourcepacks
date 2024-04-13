@@ -1,0 +1,20 @@
+name: create-release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create zip file
+      run: |
+        zip -r svs_resources.zip assets pack.mcmeta pack.png
+      # Replace "your_archive_name.zip" with the desired name for your ZIP file
+      # Replace "folder1", "folder2", "folder3" with the names of the folders you want to include in the ZIP
