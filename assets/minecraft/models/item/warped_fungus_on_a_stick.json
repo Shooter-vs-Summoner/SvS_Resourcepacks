@@ -62,6 +62,7 @@
         {"predicate": {"custom_model_data": 31113001},"model": "egg/1113"},
         {"predicate": {"custom_model_data": 31114001},"model": "egg/1114"},
         {"predicate": {"custom_model_data": 32101001},"model": "egg/2101"},
-        {"predicate": {"custom_model_data": 34001001},"model": "artifact/tmp"}
+        {"predicate": {"custom_model_data": 34001001},"model": "artifact/tmp"},
+        {"predicate": {"custom_model_data": 34002001},"model": "artifact/tmp"}
     ]
 }
