@@ -3,6 +3,8 @@ name: Create Archive
 on:
   release:
     types: [published]
+    branches:
+      - main
 
 jobs:
   build:
