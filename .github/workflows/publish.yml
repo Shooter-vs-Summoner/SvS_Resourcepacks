@@ -1,21 +1,34 @@
-name: create-release
+name: Create Archive
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  release:
+    types: [published]
 
 jobs:
   build:
+    name: Create Archive
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Create zip file
-      run: |
-        zip -r svs_resources.zip assets pack.mcmeta
-      # Replace "your_archive_name.zip" with the desired name for your ZIP file
-      # Replace "folder1", "folder2", "folder3" with the names of the folders you want to include in the ZIP
+      - uses: actions/checkout@v3
+      - name: Create zip file
+        run: zip svs_resources assets -r pack.mcmeta -r README.md
+      - name: Upload assets
+        id: upload-assets
+        uses: softprops/action-gh-release@v1
+        with:
+          files: svs_resources.zip
+      - name: Put zip info to Release.txt
+        run: |
+          echo "\`\`\`json" >> Release.txt
+          echo "{" >> Release.txt
+          echo "  \"download_size\": $(stat --printf=%s svs_resources.zip)," >> Release.txt
+          echo "  \"download_sha256\": \"$(sha256sum svs_resources.zip | cut -d ' ' -f 1)\"," >> Release.txt
+          echo "  \"download_url\": \"${{ fromJSON(steps.upload-assets.outputs.assets)[0].browser_download_url }}\"," >> Release.txt
+          echo "  \"install_size\": $([[ "$(zipinfo -t kicad-addon.zip)" =~ ^[0-9]+\ files,\ ([0-9]+)\ bytes.*$ ]]; echo ${BASH_REMATCH[1]})" >> Release.txt
+          echo "}" >> Release.txt
+          echo "\`\`\`" >> Release.txt
+      - name: Update body of release
+        uses: softprops/action-gh-release@v1
+        with:
+          append_body: true
+          body_path: Release.txt
