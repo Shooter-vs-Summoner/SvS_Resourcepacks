@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "-" : -1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/icon/buff.png",
+            "ascent": -12,
+            "height": 26,
+            "chars": [
+                "12345",
+                "6789a",
+                "bcdef",
+                "ghijk",
+                "lmnop"
+            ]
+        }
+            ]
+}
