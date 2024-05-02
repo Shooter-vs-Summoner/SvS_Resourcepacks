@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"0": "block/end_stone_bricks",
-		"1": "block/yellow_stained_glass",
+		"0": "block/deepslate_bricks",
+		"1": "block/black_stained_glass",
 		"3": "block/pearlescent_froglight_side",
-		"particle": "block/end_stone_bricks"
+		"particle": "block/deepslate_bricks"
 	},
 	"elements": [
 		{

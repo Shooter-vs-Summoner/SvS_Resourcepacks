@@ -3,7 +3,7 @@
         {
             "type": "ttf",
             "file": "minecraft:bizudpmincho-regular.ttf",
-            "shift": [-15.0, 18.0],
+            "shift": [-25.0, 18.0],
             "size": 8.0,
             "oversample": 8.0
         },

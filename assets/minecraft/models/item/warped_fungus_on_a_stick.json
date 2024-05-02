@@ -26,11 +26,6 @@
         {"predicate": {"custom_model_data": 11801001},"model": "item/diamond_shovel"},
 
 
-        {"predicate": {"custom_model_data": 12101001},"model": "gun/2101"},
-        {"predicate": {"custom_model_data": 12102001},"model": "gun/2102"},
-        {"predicate": {"custom_model_data": 12103001},"model": "gun/2103"},
-        {"predicate": {"custom_model_data": 12104001},"model": "gun/2104"},
-        {"predicate": {"custom_model_data": 12105001},"model": "gun/2105"},
         {"predicate": {"custom_model_data": 15101001},"model": "weapon/5101"},
         {"predicate": {"custom_model_data": 15102001},"model": "weapon/5102"},
         {"predicate": {"custom_model_data": 15103001},"model": "weapon/5103"},

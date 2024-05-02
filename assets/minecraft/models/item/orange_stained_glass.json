@@ -4,7 +4,10 @@
         "layer0": "block/orange_stained_glass"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "object/flag/yellow"}
+        {"predicate": {"custom_model_data": 1},"model": "object/flag/yellow"},
+        {"predicate": {"custom_model_data": 2},"model": "object/flag/blue"},
+        {"predicate": {"custom_model_data": 3},"model": "object/flag/black"}
+
 
     ]
 }
