@@ -3,7 +3,7 @@
         {
             "type": "space",
             "advances": {
-                "-" : -1
+                "z" : -1
             }
         },
         {
@@ -12,11 +12,11 @@
             "ascent": -12,
             "height": 26,
             "chars": [
-                "12345",
-                "6789a",
-                "bcdef",
-                "ghijk",
-                "lmnop"
+                "abcde",
+                "fghij",
+                "klmno",
+                "pqrst",
+                "uvwxy"
             ]
         }
             ]
