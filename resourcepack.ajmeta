@@ -1,0 +1,17 @@
+{
+    "version": "0.4.8",
+    "projects": {
+        "b20ed581-f21c-59c7-f280-7fd27582ecdb": {
+            "project_name": "npc_template",
+            "file_list": [
+                "head.json",
+                "rightarm.json",
+                "leftarm.json",
+                "body.json",
+                "rightleg.json",
+                "leftleg.json",
+                "3px_reference.png"
+            ]
+        }
+    }
+}

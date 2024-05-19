@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/white_dye"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "gui/empty"},
+		{"predicate": {"custom_model_data": 100010020},"model": "minecraft:npc/head"},
+		{"predicate": {"custom_model_data": 100010030},"model": "minecraft:npc/rightarm"},
+		{"predicate": {"custom_model_data": 100010040},"model": "minecraft:npc/leftarm"},
+		{"predicate": {"custom_model_data": 100010050},"model": "minecraft:npc/body"},
+		{"predicate": {"custom_model_data": 100010060},"model": "minecraft:npc/rightleg"},
+		{"predicate": {"custom_model_data": 100010070},"model": "minecraft:npc/leftleg"}
+	]
+}
