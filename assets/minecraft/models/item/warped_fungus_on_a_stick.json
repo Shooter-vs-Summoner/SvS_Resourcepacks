@@ -4,6 +4,7 @@
         "layer0": "item/warped_fungus_on_a_stick"
     },
     "overrides": [
+
         {"predicate": {"custom_model_data": 11101001},"model": "gun/1101"},
         {"predicate": {"custom_model_data": 11102001},"model": "gun/1102"},
         {"predicate": {"custom_model_data": 11103001},"model": "item/wooden_shovel"},
@@ -33,6 +34,7 @@
         {"predicate": {"custom_model_data": 23000001},"model": "magic/magicwater"},
         {"predicate": {"custom_model_data": 23001001},"model": "magic/muscle_harder"},
         {"predicate": {"custom_model_data": 23002001},"model": "magic/battery_charger"},
+        {"predicate": {"custom_model_data": 23003001},"model": "magic/erode_worms"},
         {"predicate": {"custom_model_data": 26101001},"model": "generic/turret/autoturret/full"},
         {"predicate": {"custom_model_data": 26101002},"model": "generic/turret/autoturret/main"},
         {"predicate": {"custom_model_data": 26101003},"model": "generic/turret/autoturret/feet"},
@@ -56,8 +58,19 @@
         {"predicate": {"custom_model_data": 31112001},"model": "egg/1112"},
         {"predicate": {"custom_model_data": 31113001},"model": "egg/1113"},
         {"predicate": {"custom_model_data": 31114001},"model": "egg/1114"},
+        {"predicate": {"custom_model_data": 31115001},"model": "egg/1115"},
+        {"predicate": {"custom_model_data": 31116001},"model": "egg/1116"},
+        {"predicate": {"custom_model_data": 31117001},"model": "egg/1117"},
+        {"predicate": {"custom_model_data": 31118001},"model": "egg/1118"},
+        {"predicate": {"custom_model_data": 31120001},"model": "egg/1120"},
+
+
         {"predicate": {"custom_model_data": 32101001},"model": "egg/2101"},
-        {"predicate": {"custom_model_data": 34001001},"model": "artifact/tmp"},
-        {"predicate": {"custom_model_data": 34002001},"model": "artifact/tmp"}
+        {"predicate": {"custom_model_data": 32102001},"model": "egg/2102"},
+        {"predicate": {"custom_model_data": 32103001},"model": "egg/2103"},
+        {"predicate": {"custom_model_data": 32104001},"model": "egg/2104"},
+        {"predicate": {"custom_model_data": 34001001},"model": "artifact/4001"},
+        {"predicate": {"custom_model_data": 34002001},"model": "artifact/4002"},
+        {"predicate": {"custom_model_data": 34003001},"model": "artifact/4003"}
     ]
 }
