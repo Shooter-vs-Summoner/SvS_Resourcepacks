@@ -1,5 +1,6 @@
 name: Create Archive
 on: 
+ workflow_dispatch:
  push:
   branches:
   - main
