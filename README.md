@@ -2,4 +2,3 @@
 
 透明なアイテム (ゾンビの炎上防止)
 blue_stained_glass{CustomModelData:1}
-a
