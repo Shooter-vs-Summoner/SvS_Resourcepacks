@@ -1,4 +1,4 @@
-name: Create Archive
+name: Release ZIP
 on: 
   workflow_dispatch:
   #push:
@@ -18,7 +18,7 @@ jobs:
         TZ: 'Asia/Tokyo'
       run: echo "CURRENT_DATETIME=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
     
-    - run: echo "RELEASE_FILENAME=resources.zip" >> $GITHUB_ENV
+    - run: echo "RELEASE_FILENAME=${{ secrets.GITHUB_TOKEN }}.zip" >> $GITHUB_ENV
       
     - name: Archive Release
       uses: thedoctor0/zip-release@main
