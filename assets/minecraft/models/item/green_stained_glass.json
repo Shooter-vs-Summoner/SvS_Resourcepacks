@@ -6,7 +6,9 @@
     "overrides": [
         {"predicate": {"custom_model_data": 4001001},"model": "artifact/4001"},
         {"predicate": {"custom_model_data": 4002001},"model": "artifact/4002"},
-        {"predicate": {"custom_model_data": 4003001},"model": "artifact/4003"}
+        {"predicate": {"custom_model_data": 4003001},"model": "artifact/4003"},
+        {"predicate": {"custom_model_data": 4005001},"model": "artifact/4005"}
+
 
 
     ]
