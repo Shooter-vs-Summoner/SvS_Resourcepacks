@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/map/island.png",
+            "file": "minecraft:custom/map/autumn.png",
             "ascent": -27,
             "height": 27,
             "chars": [
@@ -22,7 +22,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/map/island.png",
+            "file": "minecraft:custom/map/autumn.png",
             "ascent": -54,
             "height": 27,
             "chars": [
@@ -35,7 +35,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/map/island.png",
+            "file": "minecraft:custom/map/autumn.png",
             "ascent": -81,
             "height": 27,
             "chars": [
@@ -48,7 +48,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/map/island.png",
+            "file": "minecraft:custom/map/autumn.png",
             "ascent": -108,
             "height": 27,
             "chars": [
@@ -61,7 +61,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/map/island.png",
+            "file": "minecraft:custom/map/autumn.png",
             "ascent": -135,
             "height": 27,
             "chars": [
