@@ -40,6 +40,7 @@
         {"predicate": {"custom_model_data": 26101003},"model": "generic/turret/autoturret/feet"},
         {"predicate": {"custom_model_data": 27101001},"model": "generic/heal/7101"},
         {"predicate": {"custom_model_data": 27102001},"model": "generic/heal/7102"},
+        {"predicate": {"custom_model_data": 27103001},"model": "generic/reinforce/7103"},
         {"predicate": {"custom_model_data": 28101001},"model": "item/white_candle"},
         {"predicate": {"custom_model_data": 28102001},"model": "block/tnt"},
         {"predicate": {"custom_model_data": 28103001},"model": "generic/grenade/lightning"},
