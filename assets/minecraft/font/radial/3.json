@@ -1,0 +1,17 @@
+{
+  "providers": [
+      {
+          "type": "ttf",
+          "file": "minecraft:custom.ttf",
+          "shift": [-1.5, 8.5],
+          "size": 8.0,
+          "oversample": 2
+      },
+      {
+        "type": "space",
+        "advances": {
+            "☐" : -0.65, "☑" : -5,  "☒" :-8
+        }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "providers": [
+      {
+          "type": "ttf",
+          "file": "minecraft:custom.ttf",
+          "shift": [-0.6,3.0],
+          "size": 8.0,
+          "oversample": 8
+      },
+      {
+        "type": "bitmap",
+        "file": "minecraft:custom/radial/cursor.png",
+        "ascent": -12,
+        "height": 26,
+        "chars": [
+            "o"
+        ]
+    },
+      {
+        "type": "space",
+        "advances": {
+            "☐" : -0.65, "☑" : -5,  "☒" :-8
+        }
+    }
+  ]
+}

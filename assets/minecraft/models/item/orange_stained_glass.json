@@ -6,7 +6,9 @@
     "overrides": [
         {"predicate": {"custom_model_data": 1},"model": "object/flag/yellow"},
         {"predicate": {"custom_model_data": 2},"model": "object/flag/blue"},
-        {"predicate": {"custom_model_data": 3},"model": "object/flag/black"}
+        {"predicate": {"custom_model_data": 3},"model": "object/flag/black"},
+        {"predicate": {"custom_model_data": 4},"model": "object/flag/red"}
+
 
 
     ]
