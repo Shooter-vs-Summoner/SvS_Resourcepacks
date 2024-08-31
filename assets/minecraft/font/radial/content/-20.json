@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:custom.ttf",
+            "file": "minecraft:unifont-15.1.04.ttf",
             "shift": [
                 0,
                 -20

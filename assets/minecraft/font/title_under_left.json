@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:bizudpmincho-regular.ttf",
+            "file": "minecraft:unifont-15.1.04.ttf",
             "shift": [-25.0, 18.0],
             "size": 8.0,
             "oversample": 8.0
