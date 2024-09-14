@@ -2,9 +2,9 @@
   "providers": [
       {
           "type": "ttf",
-          "file": "minecraft:unifont-15.1.04.ttf",
+          "file": "minecraft:gnufont.ttf",
           "shift": [-5.5, 4.5],
-          "size": 8.0,
+          "size": 12.0,
           "oversample": 8
       },
       {
