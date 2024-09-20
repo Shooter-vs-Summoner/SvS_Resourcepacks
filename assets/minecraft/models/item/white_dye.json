@@ -16,6 +16,12 @@
 		{"predicate": {"custom_model_data": 100020040},"model": "minecraft:npc/leftarm"},
 		{"predicate": {"custom_model_data": 100020050},"model": "minecraft:npc/body"},
 		{"predicate": {"custom_model_data": 100020060},"model": "minecraft:npc/rightleg"},
-		{"predicate": {"custom_model_data": 100020070},"model": "minecraft:npc/leftleg"}
+		{"predicate": {"custom_model_data": 100020070},"model": "minecraft:npc/leftleg"},
+		{"predicate": {"custom_model_data": 100030020},"model": "minecraft:npc/lobby/head"},
+		{"predicate": {"custom_model_data": 100030030},"model": "minecraft:npc/lobby/rightarm"},
+		{"predicate": {"custom_model_data": 100030040},"model": "minecraft:npc/lobby/leftarm"},
+		{"predicate": {"custom_model_data": 100030050},"model": "minecraft:npc/lobby/body"},
+		{"predicate": {"custom_model_data": 100030060},"model": "minecraft:npc/lobby/rightleg"},
+		{"predicate": {"custom_model_data": 100030070},"model": "minecraft:npc/lobby/leftleg"}
 	]
 }
