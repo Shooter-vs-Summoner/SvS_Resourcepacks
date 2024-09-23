@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data": 10},"model": "gui/arrow_r"},
         {"predicate": {"custom_model_data": 11},"model": "gui/arrow_l"},
         {"predicate": {"custom_model_data": 20},"model": "gui/x"},
+        {"predicate": {"custom_model_data": 21},"model": "gui/return"},
         {"predicate": {"custom_model_data": 30},"model": "gui/settings"},
         {"predicate": {"custom_model_data": 100},"model": "gui/weapon"},
         {"predicate": {"custom_model_data": 110},"model": "gui/zombie"},
