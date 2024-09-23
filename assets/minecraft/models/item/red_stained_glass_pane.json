@@ -25,8 +25,15 @@
         {"predicate": {"custom_model_data": 22005001},"model": "perk/2005"},
         {"predicate": {"custom_model_data": 22006001},"model": "perk/2006"},
         {"predicate": {"custom_model_data": 22007001},"model": "perk/2007"},
+        {"predicate": {"custom_model_data": 22005001},"model": "perk/2009"},
         {"predicate": {"custom_model_data": 22010001},"model": "perk/2010"},
+
+        {"predicate": {"custom_model_data": 22005001},"model": "perk/2011"},
+        {"predicate": {"custom_model_data": 22005001},"model": "perk/2012"},
+        {"predicate": {"custom_model_data": 22010001},"model": "perk/2013"},
+
         {"predicate": {"custom_model_data": 22013001},"model": "perk/2013"},
+
         {"predicate": {"custom_model_data": 23001001},"model": "perk/3001"},
         {"predicate": {"custom_model_data": 23002001},"model": "perk/3002"},
         {"predicate": {"custom_model_data": 23003001},"model": "perk/3003"},
