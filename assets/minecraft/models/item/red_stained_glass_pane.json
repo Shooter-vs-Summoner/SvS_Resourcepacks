@@ -43,7 +43,8 @@
         {"predicate": {"custom_model_data": 23010001},"model": "perk/3010"},
         {"predicate": {"custom_model_data": 23011001},"model": "perk/3011"},
         {"predicate": {"custom_model_data": 23012001},"model": "perk/3012"},
-        {"predicate": {"custom_model_data": 23013001},"model": "perk/3013"}
+        {"predicate": {"custom_model_data": 23013001},"model": "perk/3013"},
+        {"predicate": {"custom_model_data": 23012001},"model": "perk/3014"}
 
 
     ]
