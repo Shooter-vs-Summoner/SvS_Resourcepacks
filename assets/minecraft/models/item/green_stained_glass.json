@@ -8,7 +8,8 @@
         {"predicate": {"custom_model_data": 4002001},"model": "artifact/4002"},
         {"predicate": {"custom_model_data": 4003001},"model": "artifact/4003"},
         {"predicate": {"custom_model_data": 4004001},"model": "artifact/4004"},
-        {"predicate": {"custom_model_data": 4005001},"model": "artifact/4005"}
+        {"predicate": {"custom_model_data": 4005001},"model": "artifact/4005"},
+        {"predicate": {"custom_model_data": 4006001},"model": "artifact/4006"}
 
 
 
