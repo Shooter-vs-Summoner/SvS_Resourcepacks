@@ -60,6 +60,8 @@
         {"predicate": {"custom_model_data": 28101001},"model": "item/white_candle"},
         {"predicate": {"custom_model_data": 28102001},"model": "block/tnt"},
         {"predicate": {"custom_model_data": 28103001},"model": "generic/grenade/lightning"},
+        {"predicate": {"custom_model_data": 28104001},"model": "generic/grenade/dream_eater"},
+
 
         {"predicate": {"custom_model_data": 31101001},"model": "egg/1101"},
         {"predicate": {"custom_model_data": 31102001},"model": "egg/1102"},
