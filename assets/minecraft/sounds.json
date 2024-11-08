@@ -4,6 +4,10 @@
     "bgm.kakurizima.phase2":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/phase2","stream":true}]},
     "bgm.kakurizima.phase3":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/phase3","stream":true}]},
     "bgm.kakurizima.win":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/win","stream":true}]},
-    "bgm.kakurizima.lose":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/lose","stream":true}]}
+    "bgm.kakurizima.lose":{"category": "master","sounds": [{"name": "custom/bgm/kakurizima/lose","stream":true}]},
+    "bgm.gesuidou.phase1":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/phase1","stream":true}]},
+    "bgm.gesuidou.phase2":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/phase2","stream":true}]},
+    "bgm.gesuidou.phase3":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/phase3","stream":true}]},
+    "bgm.gesuidou.win":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/win","stream":true}]}
 
     }
