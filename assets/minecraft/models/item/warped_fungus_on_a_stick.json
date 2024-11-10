@@ -8,23 +8,40 @@
         {"predicate": {"custom_model_data": 11101001},"model": "gun/1101"},
         {"predicate": {"custom_model_data": 11102001},"model": "gun/1102"},
         {"predicate": {"custom_model_data": 11103001},"model": "gun/1103"},
+        {"predicate": {"custom_model_data": 11104001},"model": "gun/1104"},
+        {"predicate": {"custom_model_data": 11105001},"model": "gun/1105"},
+        {"predicate": {"custom_model_data": 11106001},"model": "gun/1106"},
+        {"predicate": {"custom_model_data": 11107001},"model": "gun/1107"},
+        {"predicate": {"custom_model_data": 11108001},"model": "gun/1108"},
+
         {"predicate": {"custom_model_data": 11109001},"model": "gun/1109"},
         {"predicate": {"custom_model_data": 11201001},"model": "gun/1201"},
         {"predicate": {"custom_model_data": 11202001},"model": "gun/1202"},
+        {"predicate": {"custom_model_data": 11203001},"model": "gun/1203"},
+        {"predicate": {"custom_model_data": 11204001},"model": "gun/1204"},
+
+
         {"predicate": {"custom_model_data": 11301001},"model": "gun/1301"},
         {"predicate": {"custom_model_data": 11302001},"model": "gun/1302"},
         {"predicate": {"custom_model_data": 11401001},"model": "gun/1401"},
         {"predicate": {"custom_model_data": 11402001},"model": "gun/1402"},
+        {"predicate": {"custom_model_data": 11403001},"model": "gun/1403"},
+        {"predicate": {"custom_model_data": 11411001},"model": "gun/1411"},
+
+
         {"predicate": {"custom_model_data": 11501001},"model": "gun/1501"},
         {"predicate": {"custom_model_data": 11501002},"model": "gun/1501_ads"},
-        {"predicate": {"custom_model_data": 11502001},"model": "item/iron_pickaxe"},
+        {"predicate": {"custom_model_data": 11502001},"model": "gun/1502"},
+
         {"predicate": {"custom_model_data": 11601001},"model": "gun/1601"},
         {"predicate": {"custom_model_data": 11601002},"model": "gun/1601_ads"},
-        {"predicate": {"custom_model_data": 11602001},"model": "item/golden_pickaxe"},
+        {"predicate": {"custom_model_data": 11602001},"model": "gun/1602"},
         {"predicate": {"custom_model_data": 11701001},"model": "gun/1701"},
         {"predicate": {"custom_model_data": 11701002},"model": "gun/1701_ads"},
         {"predicate": {"custom_model_data": 11702001},"model": "item/stone_shovel"},
-        {"predicate": {"custom_model_data": 11801001},"model": "item/diamond_shovel"},
+        {"predicate": {"custom_model_data": 11801001},"model": "gun/1801"},
+        {"predicate": {"custom_model_data": 11802001},"model": "gun/1802"},
+
 
 
         {"predicate": {"custom_model_data": 15101001},"model": "weapon/5101"},
@@ -40,9 +57,13 @@
         {"predicate": {"custom_model_data": 26101003},"model": "generic/turret/autoturret/feet"},
         {"predicate": {"custom_model_data": 27101001},"model": "generic/heal/7101"},
         {"predicate": {"custom_model_data": 27102001},"model": "generic/heal/7102"},
+        {"predicate": {"custom_model_data": 27103001},"model": "generic/reinforce/7103"},
+        {"predicate": {"custom_model_data": 27105001},"model": "generic/unique/7105"},
         {"predicate": {"custom_model_data": 28101001},"model": "item/white_candle"},
         {"predicate": {"custom_model_data": 28102001},"model": "block/tnt"},
         {"predicate": {"custom_model_data": 28103001},"model": "generic/grenade/lightning"},
+        {"predicate": {"custom_model_data": 28104001},"model": "generic/grenade/dream_eater"},
+
 
         {"predicate": {"custom_model_data": 31101001},"model": "egg/1101"},
         {"predicate": {"custom_model_data": 31102001},"model": "egg/1102"},
@@ -63,6 +84,9 @@
         {"predicate": {"custom_model_data": 31117001},"model": "egg/1117"},
         {"predicate": {"custom_model_data": 31118001},"model": "egg/1118"},
         {"predicate": {"custom_model_data": 31120001},"model": "egg/1120"},
+        {"predicate": {"custom_model_data": 31121001},"model": "egg/1121"},
+        {"predicate": {"custom_model_data": 31122001},"model": "egg/1122"},
+
 
 
         {"predicate": {"custom_model_data": 32101001},"model": "egg/2101"},
@@ -72,7 +96,9 @@
         {"predicate": {"custom_model_data": 34001001},"model": "artifact/4001"},
         {"predicate": {"custom_model_data": 34002001},"model": "artifact/4002"},
         {"predicate": {"custom_model_data": 34003001},"model": "artifact/4003"},
-        {"predicate": {"custom_model_data": 34005001},"model": "artifact/4005"}
+        {"predicate": {"custom_model_data": 34004001},"model": "artifact/4004"},
+        {"predicate": {"custom_model_data": 34005001},"model": "artifact/4005"},
+        {"predicate": {"custom_model_data": 34006001},"model": "artifact/4006"}
 
     ]
 }

@@ -2,6 +2,27 @@
 {
 	"container.crafting": "",
 	"container.inventory": "",
-	"armor.legs": ""
+	
+	"armor.legs": "",
+	"island" :"隔離島",
+	"sea" :"洋上廃施設",
+	"autumn" :"紅葉",
+	"port" :"港",
+	"park" :"廃園",
+	"factory" :"町工場",
+	"Capture the flag" :"キャプチャーザフラッグ",
+	"Capture the flag with NPC" :"[beta]キャプチャーザフラッグ(NPC)",
+	"Alternative flag" :"オルタナティブフラッグ",
+	"halfready" :"半数が準備完了",
+	"allready" :"全員が準備完了",
+	"instant" :"ゲーム終了後即座",
+	"ignore" :"全開放",
+	"unignore" :"開放制"
+
+
+
+
+
+
 
 }
