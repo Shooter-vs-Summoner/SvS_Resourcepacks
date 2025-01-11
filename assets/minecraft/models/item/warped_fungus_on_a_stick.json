@@ -38,7 +38,9 @@
         {"predicate": {"custom_model_data": 11602001},"model": "gun/1602"},
         {"predicate": {"custom_model_data": 11701001},"model": "gun/1701"},
         {"predicate": {"custom_model_data": 11701002},"model": "gun/1701_ads"},
-        {"predicate": {"custom_model_data": 11702001},"model": "item/stone_shovel"},
+        {"predicate": {"custom_model_data": 11702001},"model": "gun/1702"},
+        {"predicate": {"custom_model_data": 11703001},"model": "gun/1703"},
+        {"predicate": {"custom_model_data": 11704001},"model": "gun/1704"},
         {"predicate": {"custom_model_data": 11801001},"model": "gun/1801"},
         {"predicate": {"custom_model_data": 11802001},"model": "gun/1802"},
 
