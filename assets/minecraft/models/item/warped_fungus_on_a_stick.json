@@ -62,6 +62,7 @@
         {"predicate": {"custom_model_data": 27102001},"model": "generic/heal/7102"},
         {"predicate": {"custom_model_data": 27103001},"model": "generic/reinforce/7103"},
         {"predicate": {"custom_model_data": 27105001},"model": "generic/unique/7105"},
+        {"predicate": {"custom_model_data": 27106001},"model": "generic/unique/7106"},
         {"predicate": {"custom_model_data": 28101001},"model": "item/white_candle"},
         {"predicate": {"custom_model_data": 28102001},"model": "block/tnt"},
         {"predicate": {"custom_model_data": 28103001},"model": "generic/grenade/lightning"},
