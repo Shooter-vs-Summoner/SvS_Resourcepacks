@@ -34,6 +34,7 @@
         {"predicate": {"custom_model_data": 22011001},"model": "perk/2011"},
         {"predicate": {"custom_model_data": 22012001},"model": "perk/2012"},
         {"predicate": {"custom_model_data": 22013001},"model": "perk/2013"},
+        {"predicate": {"custom_model_data": 22014001},"model": "perk/2014"},
 
         {"predicate": {"custom_model_data": 23001001},"model": "perk/3001"},
         {"predicate": {"custom_model_data": 23002001},"model": "perk/3002"},
