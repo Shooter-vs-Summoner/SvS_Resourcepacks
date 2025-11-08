@@ -19,6 +19,8 @@
         {"predicate": {"custom_model_data": 21013001},"model": "perk/1013"},
         {"predicate": {"custom_model_data": 21014001},"model": "perk/1014"},
         {"predicate": {"custom_model_data": 21015001},"model": "perk/1015"},
+        {"predicate": {"custom_model_data": 21016001},"model": "perk/1016"},
+
 
 
         {"predicate": {"custom_model_data": 22001001},"model": "perk/2001"},
