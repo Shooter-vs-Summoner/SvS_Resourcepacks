@@ -46,6 +46,7 @@
         {"predicate": {"custom_model_data": 11703002},"model": "gun/1703_ads"},
         {"predicate": {"custom_model_data": 11704001},"model": "gun/1704"},
         {"predicate": {"custom_model_data": 11704002},"model": "gun/1704_ads"},
+        {"predicate": {"custom_model_data": 11706001},"model": "item/stick"},
         {"predicate": {"custom_model_data": 11801001},"model": "gun/1801"},
         {"predicate": {"custom_model_data": 11802001},"model": "gun/1802"},
 
