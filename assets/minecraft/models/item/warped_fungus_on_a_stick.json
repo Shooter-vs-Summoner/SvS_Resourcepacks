@@ -24,7 +24,7 @@
         {"predicate": {"custom_model_data": 11301001},"model": "gun/1301"},
         {"predicate": {"custom_model_data": 11302001},"model": "gun/1302"},
         {"predicate": {"custom_model_data": 11302002},"model": "gun/1302_ads"},
-        {"predicate": {"custom_model_data": 11303001},"model": "item/stick"},
+        {"predicate": {"custom_model_data": 11303001},"model": "gun/1303"},
         {"predicate": {"custom_model_data": 11401001},"model": "gun/1401"},
         {"predicate": {"custom_model_data": 11402001},"model": "gun/1402"},
         {"predicate": {"custom_model_data": 11403001},"model": "gun/1403"},
@@ -46,7 +46,7 @@
         {"predicate": {"custom_model_data": 11703002},"model": "gun/1703_ads"},
         {"predicate": {"custom_model_data": 11704001},"model": "gun/1704"},
         {"predicate": {"custom_model_data": 11704002},"model": "gun/1704_ads"},
-        {"predicate": {"custom_model_data": 11706001},"model": "item/stick"},
+        {"predicate": {"custom_model_data": 11706001},"model": "gun/1706"},
         {"predicate": {"custom_model_data": 11801001},"model": "gun/1801"},
         {"predicate": {"custom_model_data": 11802001},"model": "gun/1802"},
 
@@ -99,6 +99,8 @@
         {"predicate": {"custom_model_data": 31121001},"model": "egg/1121"},
         {"predicate": {"custom_model_data": 31122001},"model": "egg/1122"},
         {"predicate": {"custom_model_data": 31123001},"model": "egg/1123"},
+        {"predicate": {"custom_model_data": 31124001},"model": "egg/1124"},
+
 
 
 
@@ -109,6 +111,8 @@
         {"predicate": {"custom_model_data": 32104001},"model": "egg/2104"},
         {"predicate": {"custom_model_data": 32105001},"model": "egg/2105"},
         {"predicate": {"custom_model_data": 32106001},"model": "egg/2106"},
+        {"predicate": {"custom_model_data": 32107001},"model": "egg/2107"},
+
         {"predicate": {"custom_model_data": 34001001},"model": "artifact/4001"},
         {"predicate": {"custom_model_data": 34002001},"model": "artifact/4002"},
         {"predicate": {"custom_model_data": 34003001},"model": "artifact/4003"},

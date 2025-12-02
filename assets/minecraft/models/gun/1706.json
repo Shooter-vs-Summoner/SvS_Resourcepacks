@@ -1,14 +1,13 @@
 {
-	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "black_concrete",
-		"2": "anvil",
-		"3": "birch_planks",
-		"4": "black_stained_glass",
-		"9": "orange_glazed_terracotta",
-		"11": "dispenser_front_vertical",
-		"particle": "acacia_planks"
+		"1": "block/black_concrete",
+		"2": "block/anvil",
+		"3": "block/birch_planks",
+		"4": "block/black_stained_glass",
+		"9": "block/orange_glazed_terracotta",
+		"11": "block/dispenser_front_vertical",
+		"particle": "block/acacia_planks"
 	},
 	"elements": [
 		{
