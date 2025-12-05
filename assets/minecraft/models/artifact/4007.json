@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "glass",
-		"1": "sculk_shrieker_bottom",
-		"2": "cyan_stained_glass",
-		"3": "snow",
-		"4": "blue_ice",
-		"5": "blue_stained_glass",
-		"6": "blue_concrete",
-		"7": "amethyst_block",
-		"8": "red_wool",
-		"particle": "glass"
+		"0": "block/glass",
+		"1": "block/sculk_shrieker_bottom",
+		"2": "block/cyan_stained_glass",
+		"3": "block/snow",
+		"4": "block/blue_ice",
+		"5": "block/blue_stained_glass",
+		"6": "block/blue_concrete",
+		"7": "block/amethyst_block",
+		"8": "block/red_wool",
+		"particle": "block/glass"
 	},
 	"elements": [
 		{

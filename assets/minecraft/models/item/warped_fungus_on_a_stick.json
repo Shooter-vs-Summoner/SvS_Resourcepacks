@@ -119,7 +119,9 @@
         {"predicate": {"custom_model_data": 34003001},"model": "artifact/4003"},
         {"predicate": {"custom_model_data": 34004001},"model": "artifact/4004"},
         {"predicate": {"custom_model_data": 34005001},"model": "artifact/4005"},
-        {"predicate": {"custom_model_data": 34006001},"model": "artifact/4006"}
+        {"predicate": {"custom_model_data": 34006001},"model": "artifact/4006"},
+        {"predicate": {"custom_model_data": 34007001},"model": "artifact/4007"}
+
 
     ]
 }
