@@ -12,6 +12,7 @@
 	"port" :"港",
 	"park" :"廃園",
 	"factory" :"町工場",
+	"danger_under":"危険区域(地下)",
 	"random" :"ランダム",
 	"Capture the flag" :"キャプチャーザフラッグ",
 	"Capture the flag with NPC" :"[beta]キャプチャーザフラッグ(NPC)",

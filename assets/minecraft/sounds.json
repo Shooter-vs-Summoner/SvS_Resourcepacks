@@ -8,6 +8,9 @@
     "bgm.gesuidou.phase1":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/phase1","stream":true}]},
     "bgm.gesuidou.phase2":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/phase2","stream":true}]},
     "bgm.gesuidou.phase3":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/phase3","stream":true}]},
-    "bgm.gesuidou.win":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/win","stream":true}]}
+    "bgm.gesuidou.win":{"category": "master","sounds": [{"name": "custom/bgm/gesuidou/win","stream":true}]},
+    "bgm.danger.phase1":{"category": "master","sounds": [{"name": "custom/bgm/danger/phase1","stream":true}]},
+    "bgm.danger.phase2":{"category": "master","sounds": [{"name": "custom/bgm/danger/phase2","stream":true}]},
+    "bgm.danger.win":{"category": "master","sounds": [{"name": "custom/bgm/danger/win","stream":true}]}
 
     }
