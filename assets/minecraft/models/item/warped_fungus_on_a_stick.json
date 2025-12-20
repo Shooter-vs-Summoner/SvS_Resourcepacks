@@ -47,7 +47,7 @@
         {"predicate": {"custom_model_data": 11704001},"model": "gun/1704"},
         {"predicate": {"custom_model_data": 11704002},"model": "gun/1704_ads"},
         {"predicate": {"custom_model_data": 11705001},"model": "gun/1705"},
-        {"predicate": {"custom_model_data": 11706001},"model": "item/stick"},
+        {"predicate": {"custom_model_data": 11706001},"model": "gun/1706"},
         {"predicate": {"custom_model_data": 11801001},"model": "gun/1801"},
         {"predicate": {"custom_model_data": 11802001},"model": "gun/1802"},
 
@@ -61,6 +61,7 @@
         {"predicate": {"custom_model_data": 23001001},"model": "magic/muscle_harder"},
         {"predicate": {"custom_model_data": 23002001},"model": "magic/battery_charger"},
         {"predicate": {"custom_model_data": 23003001},"model": "magic/erode_worms"},
+        {"predicate": {"custom_model_data": 23004001},"model": "magic/warp_frontline"},
         {"predicate": {"custom_model_data": 26101001},"model": "generic/turret/autoturret/full"},
         {"predicate": {"custom_model_data": 26101002},"model": "generic/turret/autoturret/main"},
         {"predicate": {"custom_model_data": 26101003},"model": "generic/turret/autoturret/feet"},
@@ -120,7 +121,9 @@
         {"predicate": {"custom_model_data": 34004001},"model": "artifact/4004"},
         {"predicate": {"custom_model_data": 34005001},"model": "artifact/4005"},
         {"predicate": {"custom_model_data": 34006001},"model": "artifact/4006"},
-        {"predicate": {"custom_model_data": 34007001},"model": "artifact/4007"}
+        {"predicate": {"custom_model_data": 34007001},"model": "artifact/4007"},
+        {"predicate": {"custom_model_data": 34008001},"model": "artifact/4008"}
+
 
 
     ]
