@@ -723,7 +723,8 @@
 			"translation": [0, 8, 0]
 		},
 		"firstperson_righthand": {
-			"translation": [-1, 10.5, 0]
+			"translation": [-1, 12.25, 2.75],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"firstperson_lefthand": {
 			"translation": [-1, 10.5, 0]
@@ -740,10 +741,6 @@
 			"rotation": [90, -55, 90],
 			"translation": [-5, 3.25, 0.25],
 			"scale": [0.75, 0.75, 0.75]
-		},
-		"on_shelf": {
-			"rotation": [90, 36.5, -90],
-			"translation": [7.5, 0, -4]
 		}
 	}
 }
