@@ -14,6 +14,9 @@
     "bgm.danger.win":{"category": "master","sounds": [{"name": "custom/bgm/danger/win","stream":true}]},
     "bgm.city.phase1":{"category": "master","sounds": [{"name": "custom/bgm/city/phase1","stream":true}]},
     "bgm.city.phase2":{"category": "master","sounds": [{"name": "custom/bgm/city/phase2","stream":true}]},
-    "bgm.city.win":{"category": "master","sounds": [{"name": "custom/bgm/city/win","stream":true}]}
+    "bgm.city.win":{"category": "master","sounds": [{"name": "custom/bgm/city/win","stream":true}]},
+    "bgm.sakura.phase1":{"category": "master","sounds": [{"name": "custom/bgm/sakura/phase1","stream":true}]},
+    "bgm.sakura.phase2":{"category": "master","sounds": [{"name": "custom/bgm/sakura/phase2","stream":true}]},
+    "bgm.sakura.win":{"category": "master","sounds": [{"name": "custom/bgm/sakura/win","stream":true}]}
 
     }
