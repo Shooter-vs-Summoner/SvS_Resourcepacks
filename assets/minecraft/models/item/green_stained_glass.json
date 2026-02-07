@@ -11,7 +11,11 @@
         {"predicate": {"custom_model_data": 4005001},"model": "artifact/4005"},
         {"predicate": {"custom_model_data": 4006001},"model": "artifact/4006"},
         {"predicate": {"custom_model_data": 4007001},"model": "artifact/4007"},
-        {"predicate": {"custom_model_data": 4008001},"model": "artifact/4008"}
+        {"predicate": {"custom_model_data": 4008001},"model": "artifact/4008"},
+        {"predicate": {"custom_model_data": 4009001},"model": "artifact/4009"},
+        {"predicate": {"custom_model_data": 4010001},"model": "artifact/4010"},
+        {"predicate": {"custom_model_data": 4011001},"model": "artifact/4011"}
+
 
 
 
