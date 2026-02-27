@@ -41,6 +41,7 @@
         {"predicate": {"custom_model_data": 11602001},"model": "gun/1602"},
         {"predicate": {"custom_model_data": 11603001},"model": "gun/1603"},
         {"predicate": {"custom_model_data": 11604001},"model": "gun/1604"},
+        {"predicate": {"custom_model_data": 11605001},"model": "gun/1605"},
         {"predicate": {"custom_model_data": 11701001},"model": "gun/1701"},
         {"predicate": {"custom_model_data": 11701002},"model": "gun/1701_ads"},
         {"predicate": {"custom_model_data": 11702001},"model": "gun/1702"},
