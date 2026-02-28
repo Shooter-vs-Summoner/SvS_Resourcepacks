@@ -19,6 +19,9 @@
         {"predicate": {"custom_model_data": 11202001},"model": "gun/1202"},
         {"predicate": {"custom_model_data": 11203001},"model": "gun/1203"},
         {"predicate": {"custom_model_data": 11204001},"model": "gun/1204"},
+        {"predicate": {"custom_model_data": 11205001},"model": "gun/1205"},
+        {"predicate": {"custom_model_data": 11206001},"model": "gun/1206"},
+
 
 
         {"predicate": {"custom_model_data": 11301001},"model": "gun/1301"},
@@ -29,12 +32,15 @@
         {"predicate": {"custom_model_data": 11401001},"model": "gun/1401"},
         {"predicate": {"custom_model_data": 11402001},"model": "gun/1402"},
         {"predicate": {"custom_model_data": 11403001},"model": "gun/1403"},
+        {"predicate": {"custom_model_data": 11404001},"model": "gun/1404"},{"predicate": {"custom_model_data": 11405001},"model": "gun/1405"},
         {"predicate": {"custom_model_data": 11411001},"model": "gun/1411"},
 
 
         {"predicate": {"custom_model_data": 11501001},"model": "gun/1501"},
         {"predicate": {"custom_model_data": 11501002},"model": "gun/1501_ads"},
         {"predicate": {"custom_model_data": 11502001},"model": "gun/1502"},
+        {"predicate": {"custom_model_data": 11503001},"model": "gun/1503"},
+
 
         {"predicate": {"custom_model_data": 11601001},"model": "gun/1601"},
         {"predicate": {"custom_model_data": 11601002},"model": "gun/1601_ads"},
