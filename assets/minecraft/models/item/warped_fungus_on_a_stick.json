@@ -112,6 +112,8 @@
         {"predicate": {"custom_model_data": 31122001},"model": "egg/1122"},
         {"predicate": {"custom_model_data": 31123001},"model": "egg/1123"},
         {"predicate": {"custom_model_data": 31124001},"model": "egg/1124"},
+        {"predicate": {"custom_model_data": 31125001},"model": "egg/1125"},
+
 
 
 
@@ -124,6 +126,8 @@
         {"predicate": {"custom_model_data": 32105001},"model": "egg/2105"},
         {"predicate": {"custom_model_data": 32106001},"model": "egg/2106"},
         {"predicate": {"custom_model_data": 32107001},"model": "egg/2107"},
+        {"predicate": {"custom_model_data": 32108001},"model": "egg/2108"},
+
 
         {"predicate": {"custom_model_data": 34001001},"model": "artifact/4001"},
         {"predicate": {"custom_model_data": 34002001},"model": "artifact/4002"},
